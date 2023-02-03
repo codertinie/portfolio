@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Martin Munyao</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A graduate from Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+
 
 📝 I regularly solve code katas on [https://www.codewars.com/](https://www.codewars.com/)
 
@@ -69,7 +69,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **munyao25@gmail.com**
 
 <br />
 
@@ -146,7 +146,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codertinie&show_icons=true&locale=en" alt="jrosseel" /></p>
 
 <!-- END -->
 
